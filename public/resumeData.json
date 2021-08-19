@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name": "Stuart Gardner",
+    "occupation": "Developer/Creative",
+    "description": "My Goal is to merge the creative and technical",
+    "image": "profilepic.jpg",
+    "bio": "Hi There! My name is Stuart Gardner and I am a creative technologist an",
+    "contactmessage": "Get in touch with me!",
+    "email": "stuarttgardner@gmail.com",
+    "phone": "+55 61983177979",
+    "address": {
+      "street": "",
+      "city": "the planet earth",
+      "state": "",
+      "zip": ""
+    },
+    "website": "stgardner.com",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/stuarttgardner/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/princesatyrn/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Stgardner",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "",
+        "degree": "",
+        "graduated": "",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "",
+        "category": "",
+        "image": "s",
+        "url": ""
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Stuart was great to work with. He successfully completed the task at hand. I would hire again!",
+        "user": "Adrian Elizabeth"
+      },
+      {
+        "text": "Stuart really knows how to take it to flavor town",
+        "user": "Guy Fieri (actual quote)"
+      }
+    ]
+  }
+}

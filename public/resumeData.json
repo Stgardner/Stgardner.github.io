@@ -78,22 +78,28 @@
   "portfolio": {
     "projects": [
       {
-        "title": "",
-        "category": "",
-        "image": "s",
-        "url": ""
+        "title": "Satyrn Pilsner",
+        "category": "Animation",
+        "image": "https://photos.app.goo.gl/uydMrZqi74253Z926",
+        "url": "https://www.youtube.com/watch?v=ZNpRV0AOxmU"
       },
       {
-        "title": "",
-        "category": "",
-        "image": "",
-        "url": ""
+        "title": "Coffee Promo",
+        "category": "Animation and Music",
+        "image": "https://www.youtube.com/watch?v=o2m77ddihkg",
+        "url": "https://www.youtube.com/watch?v=o2m77ddihkg"
       },
       {
-        "title": "",
-        "category": "",
-        "image": "",
-        "url": ""
+        "title": "Animation with Blender",
+        "category": "Animation",
+        "image": "https://www.youtube.com/watch?v=pZf6oHCEQ74",
+        "url": "https://www.youtube.com/watch?v=pZf6oHCEQ74"
+      },
+      {
+        "title": "Escape from Coffeeland",
+        "category": "Album",
+        "image": "https://f4.bcbits.com/img/a0212581784_10.jpg",
+        "url": "https://princesatyrn.bandcamp.com/album/escape-from-coffeeland"
       }
     ]
   },

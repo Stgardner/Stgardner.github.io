@@ -132,7 +132,7 @@ export default function Portfolio() {
       <div style={{fontSize: "33px", textAlign: "center", marginLeft: "auto", marginRight: "auto", marginTop: '18px'}}>
         <p>Works</p>
       </div>
-      <a style={{display: "flex", flexWrap: "wrap", justifyContent: "center" , alignItems: 'center', gap: "30px", padding: "0 4px"}}>
+      <div style={{display: "flex", flexWrap: "wrap", justifyContent: "center" , alignItems: 'center', gap: "30px", padding: "0 4px"}}>
       
       <BackgroundChemistry>
         <DisplayOverChemistry>
@@ -159,7 +159,7 @@ export default function Portfolio() {
       <ReactPlayer url={"https://www.youtube.com/watch?v=o2m77ddihkg"} />
       <ReactPlayer url={"https://www.youtube.com/watch?v=pZf6oHCEQ74"} />
       <Iframe iframe={iframe} />
-      </a>
+      </div>
     </div>
   )
 }

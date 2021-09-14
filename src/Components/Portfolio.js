@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactPlayer from 'react-player'
-import Dremora from './Dremora.png'
+import Dremora from './Dremora1.png'
 import ChemistryRead from './ChemistryRead.png'
 import styled from "@emotion/styled/macro";
       
